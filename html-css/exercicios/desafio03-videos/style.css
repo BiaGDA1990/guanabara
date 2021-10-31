@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: #9bbc3d;
+  font-size: 80px;
+}
+
+#meulink {
+  color: white;
+  text-decoration: none;
+}
